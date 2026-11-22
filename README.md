@@ -2,7 +2,7 @@
 
 A simple flashcard study app built with plain HTML, CSS, and JavaScript. Add your own cards, flip through them, and track which ones you've mastered. Your cards are saved in your browser, so they're still there when you come back.
 
-**Live demo:** _add your GitHub Pages link here_
+(https://brandondidntknow.github.io/flash-card-app/)
 
 ## Features
 
